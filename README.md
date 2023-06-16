@@ -21,5 +21,5 @@ Um dos pontos mais interessantes que achei foi o uso do Swagger, que é uma ferr
 
 ![Exemplo do Swagger](images/image.png)
 
-[Documentação do Swagger](https://swagger.io/){:target="_blank"}
+[Documentação do Swagger](https://swagger.io/)
 
